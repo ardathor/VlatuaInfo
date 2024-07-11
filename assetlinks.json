@@ -1,14 +1,11 @@
 [
   {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
+    "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
       "package_name": "com.app.vlatua",
-      "sha256_cert_fingerprints": [
-        "86:EE:18:82:D8:7F:F3:3F:B7:D5:F6:CA:50:26:5D:D1:D7:52:07:D7:E4:B8:6B:BF:85:58:67:61:D2:33:5F:34"
-      ]
+      "sha256_cert_fingerprints":
+        ["86:EE:18:82:D8:7F:F3:3F:B7:D5:F6:CA:50:26:5D:D1:D7:52:07:D7:E4:B8:6B:BF:85:58:67:61:D2:33:5F:34"]
     }
   }
 ]
